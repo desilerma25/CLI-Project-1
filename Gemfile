@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
 gem 'pry'
-gem 'httparty'
+gem 'net-http'
 gem 'json'
 gem 'open-uri'

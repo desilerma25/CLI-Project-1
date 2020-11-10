@@ -28,10 +28,10 @@ class CLI # Command Line Interface
         input = gets.chomp
         index = input_to_index(input)
 
-        if index == 0
-            Show.clear_all
-            self.start
-        end
+        # if index == 0
+        #     Show.clear_all
+        #     self.start
+        # end
     end
 
 end
